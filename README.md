@@ -19,10 +19,7 @@ A simple and user-friendly **To-Do List App** built with **Flutter**. This app a
 
 Follow these steps to get your app up and running:
 
-1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/todo-app.git
    
 ![Screenshot 2024-12-03 220654](https://github.com/user-attachments/assets/3809a78e-f114-419a-86a2-9e311f746373)
 
