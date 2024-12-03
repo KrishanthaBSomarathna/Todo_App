@@ -15,9 +15,7 @@ A simple and user-friendly **To-Do List App** built with **Flutter**. This app a
 - **Flutter**: A framework for building natively compiled applications.
 - **Dart**: The programming language used for Flutter development.
 
-## Setup
 
-Follow these steps to get your app up and running:
 
 
    
